@@ -31,7 +31,7 @@ export function Hero() {
         >
           <p className="font-mono text-xs tracking-[0.3em] text-muted-foreground mb-2">01 — DEVELOPER PROFILE</p>
           <h2 className="font-sans text-4xl md:text-6xl lg:text-7xl font-light tracking-tight text-balance">
-            ADHIL NIZMUDEEN
+            ADHIL NIZAMUDEEN
             <br />
             <span className="italic">MCA STUDENT</span>
           </h2>
@@ -67,7 +67,7 @@ export function Hero() {
           <h2 className="font-sans text-4xl md:text-6xl lg:text-7xl font-light tracking-tight text-balance">
             MCA STUDENT
             <br />
-            <span className="italic">MULTIMEDIA DESIGNER</span>
+            <span className="italic">WEB DEV</span>
           </h2>
         </motion.div>
       </motion.div>
