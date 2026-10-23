@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Adhil N | Software Developer Portfolio",
   description: "Portfolio of Adhil Nizamudeen, an MCA student and software developer from Kollam, Kerala.",
-  icons: { icon: "/icon.svg" },
+  icons: { icon: { url: "/clubs-icon.png", type: "image/png", sizes: "48x48" } },
   generator: "v0.app"
 }
 
